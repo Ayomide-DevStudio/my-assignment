@@ -1,2 +1,2 @@
-node_modules
-.env
+PORT =  2000
+MONGODB_URL = mongodb+srv://fagbuyiayomide5_db_user:ayomide123@ecomapp-cluster.yzh8hg7.mongodb.net/?appName=ecomapp-cluster
